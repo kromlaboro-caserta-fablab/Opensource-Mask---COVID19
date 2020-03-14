@@ -9,6 +9,8 @@
 #The project created with Onshape can be assigned and provided at the following link:
 <https://cad.onshape.com/documents/5071deb828c9627f12f63111/w/9d8d6e50a424a7cd359278e1/e/e9f5efc91c43cd5e26bae5cb'>
 
+Thanks to: Prof. Bruno Gioffrè <https://it-it.facebook.com/bruno.gioffre.3>
+
 ##  NOTICE!!!
 
 #The mask can use circular certified filters or in case of emergency homemade filters as specified on the WHO website!
@@ -33,6 +35,8 @@ WORK IN PROGRESS
 
 #Il progetto creato con Onshape è posibile modificalro e scaricarlo al seguente link:
 <https://cad.onshape.com/documents/5071deb828c9627f12f63111/w/9d8d6e50a424a7cd359278e1/e/e9f5efc91c43cd5e26bae5cb'>
+
+Speciale Ringraziamento: Prof. Bruno Gioffrè <https://it-it.facebook.com/bruno.gioffre.3>
 
 ## AVVISO!!!
 
