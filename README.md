@@ -8,9 +8,11 @@ Info Video - Spasciani Mask <https://youtu.be/xDpnz45XlGc>
 
 Info - https://github.com/kromlaboro-caserta-fablab/Opensource-Mask---COVID19/blob/master/VieRespiratorie.pdf
 
-Tutorial - Video : https://www.facebook.com/dido.lettieri/posts/1263100890554163
+Tutorial - Video : <https://www.facebook.com/dido.lettieri/posts/1263100890554163>
 
-Info:https://smartairfilters.com/wordpress/wp-content/uploads/2020/03/Effectiveness-doubling-mask-layers-on-DIY-homemade-mask-virus-filtering-efficiency.jpg
+Info: <https://smartairfilters.com/wordpress/wp-content/uploads/2020/03/Effectiveness-doubling-mask-layers-on-DIY-homemade-mask-virus-filtering-efficiency.jpg>
+
+Info : <https://github.com/kromlaboro-caserta-fablab/Opensource-Mask---COVID19/blob/master/head%20dimensions.pdf>
 
 
 
