@@ -14,6 +14,10 @@ Info: <https://smartairfilters.com/wordpress/wp-content/uploads/2020/03/Effectiv
 
 Info : <https://github.com/kromlaboro-caserta-fablab/Opensource-Mask---COVID19/blob/master/head%20dimensions.pdf>
 
+# AVVISO REGIONE CAMPANIA - AZIENDE PRODUTTRICI
+
+http://www.regione.campania.it/regione/it/news/primo-piano/covid-19-avviso-rivolto-alle-aziende-produttrici-di-mascherine
+
 
 
 
